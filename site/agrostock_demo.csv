@@ -1,0 +1,95 @@
+﻿id,codigo,nombre,unidad,fecha,tipo,cantidad,plazo_semanas,seguridad_semanas,nota
+M0001,F001,Fertilizante A,kg,2026-08-31,inicial,150,2,1,Existencia inicial simulada
+M0002,F001,Fertilizante A,kg,2026-09-03,salida,10,,,Consumo semanal simulado
+M0003,F001,Fertilizante A,kg,2026-09-06,cierre,,,,Semana revisada y completa
+M0004,F001,Fertilizante A,kg,2026-09-10,salida,10,,,Consumo semanal simulado
+M0005,F001,Fertilizante A,kg,2026-09-13,cierre,,,,Semana revisada y completa
+M0006,F001,Fertilizante A,kg,2026-09-17,salida,10,,,Consumo semanal simulado
+M0007,F001,Fertilizante A,kg,2026-09-20,cierre,,,,Semana revisada y completa
+M0008,F001,Fertilizante A,kg,2026-09-24,salida,10,,,Consumo semanal simulado
+M0009,F001,Fertilizante A,kg,2026-09-27,cierre,,,,Semana revisada y completa
+M0010,F001,Fertilizante A,kg,2026-10-01,salida,10,,,Consumo semanal simulado
+M0011,F001,Fertilizante A,kg,2026-10-04,cierre,,,,Semana revisada y completa
+M0012,F001,Fertilizante A,kg,2026-10-08,salida,10,,,Consumo semanal simulado
+M0013,F001,Fertilizante A,kg,2026-10-11,cierre,,,,Semana revisada y completa
+M0014,F001,Fertilizante A,kg,2026-10-15,salida,10,,,Consumo semanal simulado
+M0015,F001,Fertilizante A,kg,2026-10-18,cierre,,,,Semana revisada y completa
+M0016,F001,Fertilizante A,kg,2026-10-22,salida,10,,,Consumo semanal simulado
+M0017,F001,Fertilizante A,kg,2026-10-25,cierre,,,,Semana revisada y completa
+M0018,F001,Fertilizante A,kg,2026-10-29,salida,10,,,Consumo semanal simulado
+M0019,F001,Fertilizante A,kg,2026-11-01,cierre,,,,Semana revisada y completa
+M0020,F001,Fertilizante A,kg,2026-11-05,salida,10,,,Consumo semanal simulado
+M0021,F001,Fertilizante A,kg,2026-11-08,cierre,,,,Semana revisada y completa
+M0022,F001,Fertilizante A,kg,2026-11-12,salida,10,,,Consumo semanal simulado
+M0023,F001,Fertilizante A,kg,2026-11-15,cierre,,,,Semana revisada y completa
+M0024,F001,Fertilizante A,kg,2026-11-19,salida,10,,,Consumo semanal simulado
+M0025,F001,Fertilizante A,kg,2026-11-22,cierre,,,,Semana revisada y completa
+M0026,F002,Fertilizante 15-15-15,kg,2026-08-31,inicial,200,2,1,Existencia inicial simulada
+M0027,F002,Fertilizante 15-15-15,kg,2026-09-03,salida,5,,,Consumo semanal simulado
+M0028,F002,Fertilizante 15-15-15,kg,2026-09-06,cierre,,,,Semana revisada y completa
+M0029,F002,Fertilizante 15-15-15,kg,2026-09-10,salida,6,,,Consumo semanal simulado
+M0030,F002,Fertilizante 15-15-15,kg,2026-09-13,cierre,,,,Semana revisada y completa
+M0031,F002,Fertilizante 15-15-15,kg,2026-09-17,salida,7,,,Consumo semanal simulado
+M0032,F002,Fertilizante 15-15-15,kg,2026-09-20,cierre,,,,Semana revisada y completa
+M0033,F002,Fertilizante 15-15-15,kg,2026-09-24,salida,8,,,Consumo semanal simulado
+M0034,F002,Fertilizante 15-15-15,kg,2026-09-27,cierre,,,,Semana revisada y completa
+M0035,F002,Fertilizante 15-15-15,kg,2026-10-01,salida,9,,,Consumo semanal simulado
+M0036,F002,Fertilizante 15-15-15,kg,2026-10-04,cierre,,,,Semana revisada y completa
+M0037,F002,Fertilizante 15-15-15,kg,2026-10-06,entrada,20,,,Compra simulada
+M0038,F002,Fertilizante 15-15-15,kg,2026-10-08,salida,10,,,Consumo semanal simulado
+M0039,F002,Fertilizante 15-15-15,kg,2026-10-11,cierre,,,,Semana revisada y completa
+M0040,F002,Fertilizante 15-15-15,kg,2026-10-15,salida,11,,,Consumo semanal simulado
+M0041,F002,Fertilizante 15-15-15,kg,2026-10-18,cierre,,,,Semana revisada y completa
+M0042,F002,Fertilizante 15-15-15,kg,2026-10-22,salida,12,,,Consumo semanal simulado
+M0043,F002,Fertilizante 15-15-15,kg,2026-10-25,cierre,,,,Semana revisada y completa
+M0044,F002,Fertilizante 15-15-15,kg,2026-10-29,salida,13,,,Consumo semanal simulado
+M0045,F002,Fertilizante 15-15-15,kg,2026-11-01,cierre,,,,Semana revisada y completa
+M0046,F002,Fertilizante 15-15-15,kg,2026-11-05,salida,14,,,Consumo semanal simulado
+M0047,F002,Fertilizante 15-15-15,kg,2026-11-08,cierre,,,,Semana revisada y completa
+M0048,F002,Fertilizante 15-15-15,kg,2026-11-12,salida,15,,,Consumo semanal simulado
+M0049,F002,Fertilizante 15-15-15,kg,2026-11-15,cierre,,,,Semana revisada y completa
+M0050,F002,Fertilizante 15-15-15,kg,2026-11-19,salida,16,,,Consumo semanal simulado
+M0051,F002,Fertilizante 15-15-15,kg,2026-11-22,cierre,,,,Semana revisada y completa
+M0052,S001,Semilla de maíz,kg,2026-08-31,inicial,100,1,1,Existencia inicial simulada
+M0053,S001,Semilla de maíz,kg,2026-09-03,salida,4,,,Consumo semanal simulado
+M0054,S001,Semilla de maíz,kg,2026-09-06,cierre,,,,Semana revisada y completa
+M0055,S001,Semilla de maíz,kg,2026-09-10,salida,7,,,Consumo semanal simulado
+M0056,S001,Semilla de maíz,kg,2026-09-13,cierre,,,,Semana revisada y completa
+M0057,S001,Semilla de maíz,kg,2026-09-17,salida,5,,,Consumo semanal simulado
+M0058,S001,Semilla de maíz,kg,2026-09-20,cierre,,,,Semana revisada y completa
+M0059,S001,Semilla de maíz,kg,2026-09-24,salida,6,,,Consumo semanal simulado
+M0060,S001,Semilla de maíz,kg,2026-09-27,cierre,,,,Semana revisada y completa
+M0061,S001,Semilla de maíz,kg,2026-10-01,salida,4,,,Consumo semanal simulado
+M0062,S001,Semilla de maíz,kg,2026-10-04,cierre,,,,Semana revisada y completa
+M0063,S001,Semilla de maíz,kg,2026-10-08,salida,7,,,Consumo semanal simulado
+M0064,S001,Semilla de maíz,kg,2026-10-11,cierre,,,,Semana revisada y completa
+M0065,S001,Semilla de maíz,kg,2026-10-15,salida,5,,,Consumo semanal simulado
+M0066,S001,Semilla de maíz,kg,2026-10-18,cierre,,,,Semana revisada y completa
+M0067,S001,Semilla de maíz,kg,2026-10-22,salida,6,,,Consumo semanal simulado
+M0068,S001,Semilla de maíz,kg,2026-10-25,cierre,,,,Semana revisada y completa
+M0069,S001,Semilla de maíz,kg,2026-10-29,salida,4,,,Consumo semanal simulado
+M0070,S001,Semilla de maíz,kg,2026-11-01,cierre,,,,Semana revisada y completa
+M0071,S001,Semilla de maíz,kg,2026-11-05,salida,7,,,Consumo semanal simulado
+M0072,S001,Semilla de maíz,kg,2026-11-08,cierre,,,,Semana revisada y completa
+M0073,S001,Semilla de maíz,kg,2026-11-12,salida,5,,,Consumo semanal simulado
+M0074,S001,Semilla de maíz,kg,2026-11-15,cierre,,,,Semana revisada y completa
+M0075,S001,Semilla de maíz,kg,2026-11-19,salida,6,,,Consumo semanal simulado
+M0076,S001,Semilla de maíz,kg,2026-11-22,cierre,,,,Semana revisada y completa
+M0077,I001,Bioinsumo líquido,L,2026-10-12,inicial,50,2,1,Existencia inicial simulada
+M0078,I001,Bioinsumo líquido,L,2026-10-15,salida,3,,,Consumo semanal simulado
+M0079,I001,Bioinsumo líquido,L,2026-10-18,cierre,,,,Semana revisada y completa
+M0080,I001,Bioinsumo líquido,L,2026-10-22,salida,4,,,Consumo semanal simulado
+M0081,I001,Bioinsumo líquido,L,2026-10-25,cierre,,,,Semana revisada y completa
+M0082,I001,Bioinsumo líquido,L,2026-10-29,salida,3,,,Consumo semanal simulado
+M0083,I001,Bioinsumo líquido,L,2026-11-01,cierre,,,,Semana revisada y completa
+M0084,I001,Bioinsumo líquido,L,2026-11-05,salida,4,,,Consumo semanal simulado
+M0085,I001,Bioinsumo líquido,L,2026-11-08,cierre,,,,Semana revisada y completa
+M0086,I001,Bioinsumo líquido,L,2026-11-12,salida,3,,,Consumo semanal simulado
+M0087,I001,Bioinsumo líquido,L,2026-11-15,cierre,,,,Semana revisada y completa
+M0088,I001,Bioinsumo líquido,L,2026-11-19,salida,4,,,Consumo semanal simulado
+M0089,I001,Bioinsumo líquido,L,2026-11-22,cierre,,,,Semana revisada y completa
+M0090,S002,Semilla de frijol,kg,2026-11-09,inicial,25,1,1,Existencia inicial simulada
+M0091,S002,Semilla de frijol,kg,2026-11-12,salida,4,,,Consumo semanal simulado
+M0092,S002,Semilla de frijol,kg,2026-11-15,cierre,,,,Semana revisada y completa
+M0093,S002,Semilla de frijol,kg,2026-11-19,salida,5,,,Consumo semanal simulado
+M0094,S002,Semilla de frijol,kg,2026-11-22,cierre,,,,Semana revisada y completa

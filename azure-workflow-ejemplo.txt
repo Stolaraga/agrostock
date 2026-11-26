@@ -1,0 +1,10 @@
+# Fragmento orientativo: edite el workflow que Azure genera, no cree un segundo despliegue.
+- name: Build and Deploy
+  uses: Azure/static-web-apps-deploy@v1
+  with:
+    azure_static_web_apps_api_token: ${{ secrets.NOMBRE_DEL_SECRETO_GENERADO_POR_AZURE }}
+    action: upload
+    app_location: "site"
+    api_location: ""
+    output_location: ""
+    skip_app_build: true
